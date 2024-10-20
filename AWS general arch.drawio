@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.8.0">
+  <diagram name="Page-1" id="cig3hsCh0dN9YaeT7Z9J">
+    <mxGraphModel dx="954" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n61p8i9bbQCWY6axViJk-3" value="AWS" style="swimlane;startSize=0;fillColor=#fff2cc;strokeColor=default;swimlaneFillColor=#FFFFCC;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="560" height="940" as="geometry">
+            <mxRectangle x="120" y="80" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n61p8i9bbQCWY6axViJk-5" value="" style="swimlane;startSize=0;opacity=20;fillColor=#000000;strokeColor=#b85450;swimlaneFillColor=#FF99CC;" vertex="1" parent="n61p8i9bbQCWY6axViJk-3">
+          <mxGeometry x="90" y="40" width="270" height="450" as="geometry">
+            <mxRectangle x="90" y="40" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n61p8i9bbQCWY6axViJk-6" value="" style="swimlane;startSize=0;opacity=20;fillColor=#000000;strokeColor=#b85450;swimlaneFillColor=#FF99CC;" vertex="1" parent="n61p8i9bbQCWY6axViJk-3">
+          <mxGeometry x="90" y="650" width="270" height="250" as="geometry">
+            <mxRectangle x="30" y="310" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
